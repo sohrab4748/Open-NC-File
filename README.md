@@ -1,5 +1,5 @@
-# Open-NC-File
-<a href="https://agrimetsoft.com/open_nc_file_for_coordinates" target="_blank">Open NC File</a> is a versatile and unrestricted tool designed to extract time series data from NetCDF files. It effortlessly opens and reads data from any type of NetCDF file, including those with rotated-pole grids, such as CORDEX data. Users can input a list of station coordinates manually or via a text file, Excel file, or CSV file.
+# <a href="https://agrimetsoft.com/open_nc_file_for_coordinates" target="_blank">Open-NC-File</a>
+Open NC File is a versatile and unrestricted tool designed to extract time series data from NetCDF files. It effortlessly opens and reads data from any type of NetCDF file, including those with rotated-pole grids, such as CORDEX data. Users can input a list of station coordinates manually or via a text file, Excel file, or CSV file.
 
 A key feature of Open NC File is its ability to temporarily merge NetCDF files in unlimited dimensions. Users can specify the name of the unlimited dimension if it is not predefined in the file. Additionally, the tool provides an API that displays the stations and the domain of the NetCDF file on a map (for 1-dimensional lat/lon), making it easier to visualize the spatial distribution of stations.
 
